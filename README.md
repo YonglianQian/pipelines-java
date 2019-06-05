@@ -1,4 +1,4 @@
-
+[![Build Status](https://clt-23aef479-ad15-4068-b156-c193305938c5.visualstudio.com/VAbrahamQian/_apis/build/status/YonglianQian.pipelines-java?branchName=master)](https://clt-23aef479-ad15-4068-b156-c193305938c5.visualstudio.com/VAbrahamQian/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
